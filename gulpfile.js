@@ -1,1 +1,1 @@
-require("electrode-archetype-react-app")();
+require("@caoyangs/electrode-archetype-react-app")();

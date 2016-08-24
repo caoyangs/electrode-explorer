@@ -1,7 +1,7 @@
 "use strict";
 
 const Promise = require("bluebird");
-const reduxRouterEngine = require("electrode-redux-router-engine");
+const reduxRouterEngine = require("@caoyangs/electrode-redux-router-engine");
 const routes = require("../client/routes").routes;
 const configureStore = require("../client/store").configureStore;
 

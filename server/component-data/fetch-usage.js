@@ -2,7 +2,7 @@
 
 const GitHubApi = require("github");
 const Promise = require("bluebird");
-const Config = require("electrode-confippet").config;
+const Config = require("@caoyangs/electrode-confippet").config;
 const github = new GitHubApi(Config.githubApi);
 const REPOS_USAGE_INCLUDE = Config.REPOS_USAGE_INCLUDE;
 const REPOS_USAGE_EXCLUDE = Config.REPOS_USAGE_EXCLUDE;
