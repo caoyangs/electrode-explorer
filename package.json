@@ -33,12 +33,12 @@
     "babel-traverse": "^6.10.4",
     "bluebird": "^3",
     "classnames": "^2.2.5",
-    "electrode-archetype-react-component": "^1.0.0",
-    "electrode-archetype-react-component-dev": "^1.0.0",
-    "electrode-confippet": "^1.5.0",
-    "electrode-react-webapp": "^1.0.0",
-    "electrode-redux-router-engine": "^1.0.0",
-    "electrode-server": "^1.0.0",
+    "@caoyangs/electrode-archetype-react-component": "^1.0.0",
+    "@caoyangs/electrode-archetype-react-component-dev": "^1.0.0",
+    "@caoyangs/electrode-confippet": "^1.5.0",
+    "@caoyangs/electrode-react-webapp": "^1.0.0",
+    "@caoyangs/electrode-redux-router-engine": "^1.0.0",
+    "@caoyangs/electrode-server": "^1.0.0",
     "exenv": "^1.2.0",
     "github": "^1.1.2",
     "history": "~1.13.1",
@@ -54,8 +54,8 @@
     "semver": "^5.2.0"
   },
   "devDependencies": {
-    "electrode-archetype-react-app": "^1.0.0",
-    "electrode-archetype-react-app-dev": "^1.0.0",
+    "@caoyangs/electrode-archetype-react-app": "^1.0.0",
+    "@caoyangs/electrode-archetype-react-app-dev": "^1.0.0",
     "gulp": "^3.9.1"
   }
 }
