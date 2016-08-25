@@ -7,7 +7,8 @@
     "build": "gulp build",
     "dev": "gulp dev",
     "help": "gulp help",
-    "hot": "gulp hot"
+    "hot": "gulp hot",
+    "start": "node ."
   },
   "repository": {
     "type": "git",
