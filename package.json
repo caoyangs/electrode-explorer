@@ -8,7 +8,7 @@
     "dev": "gulp dev",
     "help": "gulp help",
     "hot": "gulp hot",
-    "start": "node server/index"
+    "start": "node `pwd`/server/index"
   },
   "repository": {
     "type": "git",
