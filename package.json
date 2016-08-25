@@ -8,7 +8,7 @@
     "dev": "gulp dev",
     "help": "gulp help",
     "hot": "gulp hot",
-    "heroku-postbuild": "npm i isomorphic-loader",
+    "heroku-postbuild": "gulp build",
     "start": "node server/index.js"
   },
   "repository": {
