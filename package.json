@@ -8,7 +8,7 @@
     "dev": "gulp dev",
     "help": "gulp help",
     "hot": "gulp hot",
-    "heroku-postbuild": "gulp build",
+    "heroku-postbuild": "ls node_modules/@caoyangs/ && gulp build",
     "start": "node server/index.js"
   },
   "repository": {
