@@ -4,7 +4,7 @@
     "./server/component-data": {},
     "./server/component-data/poll": {
       "options": {
-        "enabled": false
+        "enable": false
       }
     },
     "./server/plugins/webapp": {
